@@ -7,7 +7,7 @@ public class PokerGame {
 		int[] flowers = {0x2663, 0x2666, 0x2665, 0x2660};
 		int[] nums = new int[5];
 		nums[0] = 77;
-		nums[4] = 98;
+		nums[4] = 99;
 		System.out.println(nums[4]);
 		System.out.println(nums.length);
 		for (int i=0; i<nums.length; i++){
