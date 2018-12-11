@@ -13,9 +13,8 @@ public class PokerGame {
 		
 		
 		Poker poker = new Poker();
-		poker.shuffle();
+//		poker.shuffle();
 		poker.print();
-		
 	
 		
 		
